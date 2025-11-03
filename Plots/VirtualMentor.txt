@@ -1,0 +1,11 @@
+{
+  "date_started": "2024-02-28T00:00:00Z",
+  "account": "ACC-007",
+  "product_name": "VirtualMentor",
+  "url": "https://drive.google.com/drive/folders/virtualmentor901",
+  "description": "An AI-powered career mentoring platform that provides personalized guidance for job seekers and career changers. VirtualMentor analyzes resumes, suggests career paths, connects users with industry mentors, and offers mock interviews with AI feedback. The platform focuses on helping underrepresented groups access professional opportunities.",
+  "cost": 75000,
+  "conversion_ratio": 3800,
+  "hurdle_rate": 0.032
+}
+

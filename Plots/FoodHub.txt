@@ -1,0 +1,11 @@
+{
+  "date_started": "2023-11-15T00:00:00Z",
+  "account": "ACC-006",
+  "product_name": "FoodHub",
+  "url": "https://drive.google.com/drive/folders/foodhub678",
+  "description": "A community-driven platform that reduces food waste by connecting restaurants, grocery stores, and individuals with surplus food to local food banks and shelters. FoodHub uses AI to match food donations with organizations in real-time, ensuring fresh food reaches those in need before it expires.",
+  "cost": 55000,
+  "conversion_ratio": 3000,
+  "hurdle_rate": 0.025
+}
+

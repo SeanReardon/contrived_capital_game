@@ -1,0 +1,11 @@
+{
+  "date_started": "2024-01-20T00:00:00Z",
+  "account": "ACC-005",
+  "product_name": "EcoCycle",
+  "url": "https://drive.google.com/drive/folders/ecocycle345",
+  "description": "A circular economy marketplace for consumer goods. EcoCycle connects people who want to repair, reuse, or recycle items with local service providers and buyers. The platform includes a rating system for sustainability impact, making it easy for users to make environmentally conscious choices while saving money.",
+  "cost": 65000,
+  "conversion_ratio": 3500,
+  "hurdle_rate": 0.028
+}
+

@@ -1,0 +1,11 @@
+{
+  "date_started": "2023-12-01T00:00:00Z",
+  "account": "ACC-003",
+  "product_name": "GreenLeaf",
+  "url": "https://drive.google.com/drive/folders/greenleaf789",
+  "description": "A comprehensive urban gardening app that helps city dwellers grow their own food. GreenLeaf provides personalized growing plans, pest identification, watering schedules, and connects users with a community of urban farmers. The platform includes AR features to visualize plant growth and troubleshoot issues in real-time.",
+  "cost": 45000,
+  "conversion_ratio": 2500,
+  "hurdle_rate": 0.025
+}
+

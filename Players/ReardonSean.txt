@@ -1,0 +1,7 @@
+{
+  "display_name": "Sean Reardon",
+  "date_joined": "2024-01-10T00:00:00Z",
+  "account": "PLAYER-001",
+  "email": "sean.reardon@example.com"
+}
+

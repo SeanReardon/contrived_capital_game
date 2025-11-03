@@ -1,0 +1,11 @@
+{
+  "date_started": "2024-02-10T00:00:00Z",
+  "account": "ACC-002",
+  "product_name": "AquaLife",
+  "url": "https://drive.google.com/drive/folders/aqualife456",
+  "description": "An innovative water filtration system designed for developing regions. AquaLife uses locally-sourced materials to create affordable, sustainable water purification solutions. The system requires no electricity and can filter up to 100 liters per day, providing clean drinking water to communities in need.",
+  "cost": 85000,
+  "conversion_ratio": 4000,
+  "hurdle_rate": 0.035
+}
+

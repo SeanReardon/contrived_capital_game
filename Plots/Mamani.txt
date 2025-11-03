@@ -1,0 +1,11 @@
+{
+  "date_started": "2024-01-15T00:00:00Z",
+  "account": "ACC-001",
+  "product_name": "Mamani",
+  "url": "https://drive.google.com/drive/folders/mamani123",
+  "description": "A revolutionary platform for connecting local artisans with global markets. Mamani provides tools for small-scale producers to showcase their work, manage inventory, and reach customers worldwide. The platform focuses on sustainable and ethical sourcing, creating opportunities for communities that have traditionally been excluded from global commerce.",
+  "cost": 125000,
+  "conversion_ratio": 5000,
+  "hurdle_rate": 0.04
+}
+

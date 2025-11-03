@@ -1,0 +1,8 @@
+{
+  "project": "FoodHub",
+  "Push": 100,
+  "Pull": 0,
+  "Buy-In": 6000,
+  "Cash-Out": 0
+}
+

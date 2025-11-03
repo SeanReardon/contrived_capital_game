@@ -1,0 +1,7 @@
+{
+  "display_name": "Diana Brown",
+  "date_joined": "2024-01-20T00:00:00Z",
+  "account": "PLAYER-005",
+  "email": "diana.brown@example.com"
+}
+

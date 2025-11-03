@@ -1,0 +1,11 @@
+{
+  "date_started": "2024-01-05T00:00:00Z",
+  "account": "ACC-010",
+  "product_name": "SustainaBuild",
+  "url": "https://drive.google.com/drive/folders/sustainabuild890",
+  "description": "A construction materials marketplace focused on sustainable and recycled building supplies. SustainaBuild connects contractors and DIY enthusiasts with suppliers of reclaimed wood, recycled steel, eco-friendly insulation, and other green building materials. The platform includes carbon footprint calculators and sustainability ratings for all products.",
+  "cost": 140000,
+  "conversion_ratio": 6000,
+  "hurdle_rate": 0.045
+}
+

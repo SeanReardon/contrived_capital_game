@@ -1,0 +1,8 @@
+{
+  "project": "Mamani",
+  "Push": 0,
+  "Pull": 0,
+  "Buy-In": 0,
+  "Cash-Out": 2500
+}
+

@@ -1,0 +1,11 @@
+{
+  "date_started": "2024-03-05T00:00:00Z",
+  "account": "ACC-004",
+  "product_name": "TechBridge",
+  "url": "https://drive.google.com/drive/folders/techbridge012",
+  "description": "An educational technology platform that bridges the digital divide by providing coding and tech skills training to underserved youth. TechBridge offers free online courses, mentorship programs, and connections to tech industry opportunities. The platform uses gamification and peer learning to make technical education accessible and engaging.",
+  "cost": 95000,
+  "conversion_ratio": 4500,
+  "hurdle_rate": 0.03
+}
+

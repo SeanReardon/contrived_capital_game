@@ -1,0 +1,11 @@
+{
+  "date_started": "2024-03-15T00:00:00Z",
+  "account": "ACC-008",
+  "product_name": "HealthConnect",
+  "url": "https://drive.google.com/drive/folders/healthconnect234",
+  "description": "A telemedicine platform that connects rural and underserved communities with healthcare providers. HealthConnect offers video consultations, prescription management, and health record access. The platform works with local community centers to provide free access points for patients who lack reliable internet or devices.",
+  "cost": 110000,
+  "conversion_ratio": 5500,
+  "hurdle_rate": 0.04
+}
+
