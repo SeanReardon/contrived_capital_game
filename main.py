@@ -22,6 +22,12 @@ def main():
     # Create the game instance
     game = Game()
     
+    # Fetch and echo Intuit data
+    if game.bank is None:
+        from bank import Bank
+        game.bank = Bank()
+    game.bank.fetch_and_echo_intuit_data()
+    
     # Load game state and get timeline for processing
     timeline, moves = load_state(game)
     
@@ -46,7 +52,7 @@ def main():
     owed_transactions = calculate_owed_bank_transactions(cash_out_moves, game.bank, game.players)
     
     # Print final state
-    print_final_state(game, owed_transactions)
+#    print_final_state(game, owed_transactions)
 
 
 if __name__ == "__main__":
